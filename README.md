@@ -1,4 +1,4 @@
-# Database-with-Python  
+# Database-with-Python (Utilizando o Banco de Dados My SQL)
 
 ## Foi construído um ambiente com os seguintes comandos:
 
